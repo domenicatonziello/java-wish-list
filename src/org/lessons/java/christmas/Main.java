@@ -20,7 +20,7 @@ public class Main {
 			if(userChoise == 1) {
 				continue;
 			} else {
-				System.out.println(wishlist);
+				System.out.println("Ecco la tua lista: " + wishlist);
 				break;
 			}
 		}
